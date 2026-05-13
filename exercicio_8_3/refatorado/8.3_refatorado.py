@@ -4,6 +4,12 @@
 # Bloater - Método Longo - A função viola SRP
 # Magic number - Esse eu pesquisei - valor fixo “mágico” no código-fonte sem explicação
 
+# TÉCNICAS DE REFATORAÇÃO:
+# Extrair Classes - SRP
+# Renomear Métodos, Variáveis e Classes
+# Encapsular dados
+# Usar constantes para remover Magic Numbers
+
 
 # CÓDIGO REFATORADO:
 
