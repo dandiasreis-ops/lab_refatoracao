@@ -3,6 +3,11 @@
 # Bloater - Obsessão por tipos primitivos - Muitos dados relacionados soltos, deveriam virar objetos/classes próprias
 # Bloater - Classe Grande - Funcionario guarda muitos dados - melhor separar responsabilidades
 
+# TÉCNICAS DE REFATORAÇÃO:
+# Extrair Classes
+# Remoção de lista longa de parâmetros
+# Melhorar modelagem OO - cada classe representa uma entidade lógica
+
 
 # CÓDIGO REFATORADO:
 
