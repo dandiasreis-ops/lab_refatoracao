@@ -3,6 +3,11 @@
 # Bloater - Classe Grande - GerenciadorDeVendas - viola SRP (Single Responsibility Principle)
 # Abusadores de OO - Switch Statements - if excessivo
 
+# TÉCNICAS DE REFATORAÇÃO:
+# Extrair Métodos
+# Extrair Classes - aplicar SRP
+
+
 # CÓDIGO REFATORADO:
 
 # CLASSE RESPONSÁVEL PELO RELATÓRIO
